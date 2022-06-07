@@ -1,1 +1,1 @@
-https://StmanBY.github.io/rsschool-cv/cv
+https://StmanBY.github.io/rsschool-cv/
