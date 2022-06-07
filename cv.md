@@ -15,7 +15,8 @@ Just man
 * SMM manager  2017 - 2021
 * Support specialist 2015 - 2017
 
-##
+## Language 
+English - intermediate
 
 
 
