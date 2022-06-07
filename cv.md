@@ -2,7 +2,7 @@
 ## rsschool-cv
 # Vasilevskiy Viachaslau
 
-##Contact Information
+## Contact Information
 1. Phone:
 2. Email 
 3. Github
